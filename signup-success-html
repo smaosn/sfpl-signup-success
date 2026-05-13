@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Successful</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px; }
+        .card { border: 1px solid #ddd; padding: 20px; border-radius: 8px; }
+        .button { background: #3ecf8e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>✅ Confirmed!</h1>
+        <p>Your Singapore FPL account is now active.</p>
+        <a href="exp://192.168.x.x:8081" class="button">Open App & Login</a>
+    </div>
+</body>
+</html>
